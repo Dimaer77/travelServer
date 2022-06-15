@@ -1,14 +1,83 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "cities": [{
+  "id": 1,
+  "city": "New York City",
+  "imageCountry": "http://dummyimage.com/150x100.png/cc0000/ffffff"
+}, {
+  "id": 2,
+  "city": "Kedungreja",
+  "imageCountry": "http://dummyimage.com/230x100.png/ff4444/ffffff"
+}, {
+  "id": 3,
+  "city": "Coxim",
+  "imageCountry": "http://dummyimage.com/158x100.png/ff4444/ffffff"
+}, {
+  "id": 4,
+  "city": "Canto",
+  "imageCountry": "http://dummyimage.com/147x100.png/cc0000/ffffff"
+}, {
+  "id": 5,
+  "city": "Žatec",
+  "imageCountry": "http://dummyimage.com/109x100.png/dddddd/000000"
+}, {
+  "id": 6,
+  "city": "Kleszczów",
+  "imageCountry": "http://dummyimage.com/218x100.png/5fa2dd/ffffff"
+}, {
+  "id": 7,
+  "city": "San José",
+  "imageCountry": "http://dummyimage.com/109x100.png/dddddd/000000"
+}, {
+  "id": 8,
+  "city": "Chư Ty",
+  "imageCountry": "http://dummyimage.com/146x100.png/dddddd/000000"
+}, {
+  "id": 9,
+  "city": "Lubuagan",
+  "imageCountry": "http://dummyimage.com/102x100.png/ff4444/ffffff"
+}, {
+  "id": 10,
+  "city": "Notsé",
+  "imageCountry": "http://dummyimage.com/184x100.png/5fa2dd/ffffff"
+}, {
+  "id": 11,
+  "city": "Kotor",
+  "imageCountry": "http://dummyimage.com/124x100.png/ff4444/ffffff"
+}, {
+  "id": 12,
+  "city": "Isniq",
+  "imageCountry": "http://dummyimage.com/206x100.png/ff4444/ffffff"
+}, {
+  "id": 13,
+  "city": "Suai",
+  "imageCountry": "http://dummyimage.com/127x100.png/dddddd/000000"
+}, {
+  "id": 14,
+  "city": "Nemours",
+  "imageCountry": "http://dummyimage.com/223x100.png/ff4444/ffffff"
+}, {
+  "id": 15,
+  "city": "Boston",
+  "imageCountry": "http://dummyimage.com/188x100.png/dddddd/000000"
+}, {
+  "id": 16,
+  "city": "Huanghuatan",
+  "imageCountry": "http://dummyimage.com/233x100.png/dddddd/000000"
+}, {
+  "id": 17,
+  "city": "Hamar",
+  "imageCountry": "http://dummyimage.com/151x100.png/cc0000/ffffff"
+}, {
+  "id": 18,
+  "city": "San Isidro",
+  "imageCountry": "http://dummyimage.com/147x100.png/ff4444/ffffff"
+}, {
+  "id": 19,
+  "city": "Fenoarivo Atsinanana",
+  "imageCountry": "http://dummyimage.com/197x100.png/cc0000/ffffff"
+}, {
+  "id": 20,
+  "city": "Pakuncen",
+  "imageCountry": "http://dummyimage.com/204x100.png/cc0000/ffffff"
+}]
 }
