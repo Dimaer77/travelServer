@@ -1,164 +1,126 @@
 {
-  "cities": [{
-  "id": 1,
-  "city": "New York City",
-  "imageCountry": "http://dummyimage.com/150x100.png/cc0000/ffffff"
-}, {
-  "id": 2,
-  "city": "Kedungreja",
-  "imageCountry": "http://dummyimage.com/230x100.png/ff4444/ffffff"
-}, {
-  "id": 3,
-  "city": "Coxim",
-  "imageCountry": "http://dummyimage.com/158x100.png/ff4444/ffffff"
-}, {
-  "id": 4,
-  "city": "Canto",
-  "imageCountry": "http://dummyimage.com/147x100.png/cc0000/ffffff"
-}, {
-  "id": 5,
-  "city": "Žatec",
-  "imageCountry": "http://dummyimage.com/109x100.png/dddddd/000000"
-}, {
-  "id": 6,
-  "city": "Kleszczów",
-  "imageCountry": "http://dummyimage.com/218x100.png/5fa2dd/ffffff"
-}, {
-  "id": 7,
-  "city": "San José",
-  "imageCountry": "http://dummyimage.com/109x100.png/dddddd/000000"
-}, {
-  "id": 8,
-  "city": "Chư Ty",
-  "imageCountry": "http://dummyimage.com/146x100.png/dddddd/000000"
-}, {
-  "id": 9,
-  "city": "Lubuagan",
-  "imageCountry": "http://dummyimage.com/102x100.png/ff4444/ffffff"
-}, {
-  "id": 10,
-  "city": "Notsé",
-  "imageCountry": "http://dummyimage.com/184x100.png/5fa2dd/ffffff"
-}, {
-  "id": 11,
-  "city": "Kotor",
-  "imageCountry": "http://dummyimage.com/124x100.png/ff4444/ffffff"
-}, {
-  "id": 12,
-  "city": "Isniq",
-  "imageCountry": "http://dummyimage.com/206x100.png/ff4444/ffffff"
-}, {
-  "id": 13,
-  "city": "Suai",
-  "imageCountry": "http://dummyimage.com/127x100.png/dddddd/000000"
-}, {
-  "id": 14,
-  "city": "Nemours",
-  "imageCountry": "http://dummyimage.com/223x100.png/ff4444/ffffff"
-}, {
-  "id": 15,
-  "city": "Boston",
-  "imageCountry": "http://dummyimage.com/188x100.png/dddddd/000000"
-}, {
-  "id": 16,
-  "city": "Huanghuatan",
-  "imageCountry": "http://dummyimage.com/233x100.png/dddddd/000000"
-}, {
-  "id": 17,
-  "city": "Hamar",
-  "imageCountry": "http://dummyimage.com/151x100.png/cc0000/ffffff"
-}, {
-  "id": 18,
-  "city": "San Isidro",
-  "imageCountry": "http://dummyimage.com/147x100.png/ff4444/ffffff"
-}, {
-  "id": 19,
-  "city": "Fenoarivo Atsinanana",
-  "imageCountry": "http://dummyimage.com/197x100.png/cc0000/ffffff"
-}, {
-  "id": 20,
-  "city": "Pakuncen",
-  "imageCountry": "http://dummyimage.com/204x100.png/cc0000/ffffff"
-}],
-  "countries": [{
-  "id": 1,
-  "country": "Japan",
-  "imageCountry": "http://dummyimage.com/164x100.png/5fa2dd/ffffff"
-}, {
-  "id": 2,
-  "country": "Thailand",
-  "imageCountry": "http://dummyimage.com/237x100.png/ff4444/ffffff"
-}, {
-  "id": 3,
-  "country": "China",
-  "imageCountry": "http://dummyimage.com/128x100.png/ff4444/ffffff"
-}, {
-  "id": 4,
-  "country": "China",
-  "imageCountry": "http://dummyimage.com/222x100.png/cc0000/ffffff"
-}, {
-  "id": 5,
-  "country": "Cambodia",
-  "imageCountry": "http://dummyimage.com/175x100.png/5fa2dd/ffffff"
-}, {
-  "id": 6,
-  "country": "Netherlands",
-  "imageCountry": "http://dummyimage.com/102x100.png/dddddd/000000"
-}, {
-  "id": 7,
-  "country": "Honduras",
-  "imageCountry": "http://dummyimage.com/217x100.png/dddddd/000000"
-}, {
-  "id": 8,
-  "country": "Honduras",
-  "imageCountry": "http://dummyimage.com/248x100.png/5fa2dd/ffffff"
-}, {
-  "id": 9,
-  "country": "Brazil",
-  "imageCountry": "http://dummyimage.com/232x100.png/cc0000/ffffff"
-}, {
-  "id": 10,
-  "country": "France",
-  "imageCountry": "http://dummyimage.com/229x100.png/5fa2dd/ffffff"
-}, {
-  "id": 11,
-  "country": "China",
-  "imageCountry": "http://dummyimage.com/229x100.png/cc0000/ffffff"
-}, {
-  "id": 12,
-  "country": "Gambia",
-  "imageCountry": "http://dummyimage.com/196x100.png/5fa2dd/ffffff"
-}, {
-  "id": 13,
-  "country": "Russia",
-  "imageCountry": "http://dummyimage.com/203x100.png/5fa2dd/ffffff"
-}, {
-  "id": 14,
-  "country": "Philippines",
-  "imageCountry": "http://dummyimage.com/105x100.png/5fa2dd/ffffff"
-}, {
-  "id": 15,
-  "country": "China",
-  "imageCountry": "http://dummyimage.com/159x100.png/cc0000/ffffff"
-}, {
-  "id": 16,
-  "country": "Peru",
-  "imageCountry": "http://dummyimage.com/152x100.png/5fa2dd/ffffff"
-}, {
-  "id": 17,
-  "country": "Germany",
-  "imageCountry": "http://dummyimage.com/235x100.png/5fa2dd/ffffff"
-}, {
-  "id": 18,
-  "country": "Togo",
-  "imageCountry": "http://dummyimage.com/137x100.png/ff4444/ffffff"
-}, {
-  "id": 19,
-  "country": "China",
-  "imageCountry": "http://dummyimage.com/222x100.png/5fa2dd/ffffff"
-}, {
-  "id": 20,
-  "country": "Bangladesh",
-  "imageCountry": "http://dummyimage.com/170x100.png/ff4444/ffffff"
-}]
-}
+    "cities": [{
+    "id": 1,
+    "city": "Tokyo",
+    "imageCountry": "http://dummyimage.com/150x100.png/cc0000/ffffff"
+  }, {
+    "id": 2,
+    "city": "Nagasaki",
+    "imageCountry": "http://dummyimage.com/230x100.png/ff4444/ffffff"
+  }, {
+    "id": 3,
+    "city": "Coxim",
+    "imageCountry": "http://dummyimage.com/158x100.png/ff4444/ffffff"
+  }, {
+    "id": 4,
+    "city": "Canto",
+    "imageCountry": "http://dummyimage.com/147x100.png/cc0000/ffffff"
+  }, {
+    "id": 5,
+    "city": "Žatec",
+    "imageCountry": "http://dummyimage.com/109x100.png/dddddd/000000"
+  }, {
+    "id": 6,
+    "city": "Kleszczów",
+    "imageCountry": "http://dummyimage.com/218x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 7,
+    "city": "San José",
+    "imageCountry": "http://dummyimage.com/109x100.png/dddddd/000000"
+  }, {
+    "id": 8,
+    "city": "Chư Ty",
+    "imageCountry": "http://dummyimage.com/146x100.png/dddddd/000000"
+  }, {
+    "id": 9,
+    "city": "Lubuagan",
+    "imageCountry": "http://dummyimage.com/102x100.png/ff4444/ffffff"
+  }, {
+    "id": 10,
+    "city": "Notsé",
+    "imageCountry": "http://dummyimage.com/184x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 11,
+    "city": "Kotor",
+    "imageCountry": "http://dummyimage.com/124x100.png/ff4444/ffffff"
+  }, {
+    "id": 12,
+    "city": "Isniq",
+    "imageCountry": "http://dummyimage.com/206x100.png/ff4444/ffffff"
+  }, {
+    "id": 13,
+    "city": "Suai",
+    "imageCountry": "http://dummyimage.com/127x100.png/dddddd/000000"
+  }, {
+    "id": 14,
+    "city": "Nemours",
+    "imageCountry": "http://dummyimage.com/223x100.png/ff4444/ffffff"
+  }, {
+    "id": 15,
+    "city": "Boston",
+    "imageCountry": "http://dummyimage.com/188x100.png/dddddd/000000"
+  }, {
+    "id": 16,
+    "city": "Huanghuatan",
+    "imageCountry": "http://dummyimage.com/233x100.png/dddddd/000000"
+  }, {
+    "id": 17,
+    "city": "Hamar",
+    "imageCountry": "http://dummyimage.com/151x100.png/cc0000/ffffff"
+  }, {
+    "id": 18,
+    "city": "San Isidro",
+    "imageCountry": "http://dummyimage.com/147x100.png/ff4444/ffffff"
+  }, {
+    "id": 19,
+    "city": "Fenoarivo Atsinanana",
+    "imageCountry": "http://dummyimage.com/197x100.png/cc0000/ffffff"
+  }, {
+    "id": 20,
+    "city": "Pakuncen",
+    "imageCountry": "http://dummyimage.com/204x100.png/cc0000/ffffff"
+  }],
+    "countries": [{
+    "id": 1,
+    "country": "Japan",
+    "cities":[{"name":"Tokyo", "linkUrl":"https://my-json-server.typicode.com/dimaer77/travelServer/cities/?city=Tokyo"},{"name":"Nagasaki", "linkUrl":"https://my-json-server.typicode.com/dimaer77/travelServer/cities/?city=Nagasaki"}],
+    "imageCountry": "http://dummyimage.com/164x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 2,
+    "country": "Belarus",
+    "imageCountry": "http://dummyimage.com/237x100.png/ff4444/ffffff"
+  }, {
+    "id": 3,
+    "country": "China",
+    "imageCountry": "http://dummyimage.com/128x100.png/ff4444/ffffff"
+  }, {
+    "id": 4,
+    "country": "China",
+    "imageCountry": "http://dummyimage.com/222x100.png/cc0000/ffffff"
+  }, {
+    "id": 5,
+    "country": "Cambodia",
+    "imageCountry": "http://dummyimage.com/175x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 6,
+    "country": "Netherlands",
+    "imageCountry": "http://dummyimage.com/102x100.png/dddddd/000000"
+  }, {
+    "id": 7,
+    "country": "Honduras",
+    "imageCountry": "http://dummyimage.com/217x100.png/dddddd/000000"
+  }, {
+    "id": 8,
+    "country": "Honduras",
+    "imageCountry": "http://dummyimage.com/248x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 9,
+    "country": "Brazil",
+    "imageCountry": "http://dummyimage.com/232x100.png/cc0000/ffffff"
+  }, {
+    "id": 10,
+    "country": "France",
+    "imageCountry": "http://dummyimage.com/229x100.png/5fa2dd/ffffff"
+  }]
+  }
+  
