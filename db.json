@@ -47,22 +47,6 @@
   "id": 12,
   "city": "Amsterdam",
   "cityImage": "https://avatars.mds.yandex.net/get-zen_doc/196027/pub_5abb5b4a00b3dd561a73114f_5abb5dd78139baba31d25100/scale_1200"
-}, {
-  "id": 13,
-  "city": "Texas",
-  "cityImage": "http://dummyimage.com/127x100.png/dddddd/000000"
-}, {
-  "id": 14,
-  "city": "NewYork",
-  "cityImage": "http://dummyimage.com/223x100.png/ff4444/ffffff"
-}, {
-  "id": 15,
-  "city": "Rome",
-  "cityImage": "http://dummyimage.com/188x100.png/dddddd/000000"
-}, {
-  "id": 16,
-  "city": "Milan",
-  "cityImage": "http://dummyimage.com/233x100.png/dddddd/000000"
 }],
   
     "countries": [{
@@ -95,17 +79,6 @@
     "country": "Netherlands",
     "cities":["Amsterdam","Gaaga"],
     "imageCountry": "https://www.globalcompliancenews.com/wp-content/uploads/sites/43/2018/05/Amsterdam.jpg"
-  }, {
-    "id": 7,
-    "country": "USA",
-    "cities":["NewYork","Texas"],
-
-    "imageCountry": "https://images.all-free-download.com/images/graphiclarge/american_flags_on_side_of_building_in_city_596498.jpg"
-  }, {
-    "id": 8,
-    "country": "Italy",
-    "cities":["Rome","Milan"],
-    "imageCountry": "https://www.westend61.de/images/0001318974pw/italy-rome-italian-flag-fluttering-againstpalazzobonaparte-and-santa-mariadiloreto-MMAF01235.jpg"
   }]
   }
   
