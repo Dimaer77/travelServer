@@ -122,16 +122,6 @@
     "country": "Italy",
     "cities":["Rome","Milan"],
     "imageCountry": "https://www.westend61.de/images/0001318974pw/italy-rome-italian-flag-fluttering-againstpalazzobonaparte-and-santa-mariadiloreto-MMAF01235.jpg"
-  }, {
-    "id": 9,
-    "country": "Brazil",
-    "cities":["Salvador","SanPaolo"],
-    "imageCountry": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGMwMskQbwTqvsVhqGJ67SvN2_d_GG2n0yJQ&usqp=CAU"
-  }, {
-    "id": 10,
-    "country": "Georgia",
-    "cities":["Batumi","Tbilisi"],
-    "imageCountry": "https://blog.mydutyfree.net/images/uploaded/21.04.2021%20Georgia/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F1.jpg"
   }],
   }
   
