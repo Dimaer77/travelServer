@@ -3,61 +3,73 @@
   "id": 1,
   "city": "Tokyo",
   "hotels":["hotel1","hotel2"],
+  "attractions":["attraction1","attraction2"] 
   "cityImage": "https://media.istockphoto.com/photos/akihabara-tokyo-picture-id484915982?k=20&m=484915982&s=612x612&w=0&h=jeEPg-Xt5Uv-vUoeTVpaW0ilaGJ1LuazPU-7dUBnhUs="
 }, {
   "id": 2,
   "city": "Nagasaki",
   "hotels":["hotel3","hotel4"],
+  "attractions":["attraction3","attraction4"] 
   "cityImage": "https://media.istockphoto.com/photos/nagasaki-japan-skyline-picture-id668084118?k=20&m=668084118&s=612x612&w=0&h=M7OKIU2EOAeScmGm8MwE9VUp2M9z3udItB_Ek6nMZtA="
 }, {
   "id": 3,
   "city": "Minsk",
   "hotels":["hotel5","hotel6"],
+  "attractions":["attraction5","attraction6"]
   "cityImage": "https://cf.bstatic.com/xdata/images/city/375x225/683880.jpg?k=718e41071d7ce469775d9ae28a2d74a6f40a38277d43842162cc22486dbd5d69&o="
 }, {
   "id": 4,
   "city": "Grodno",
   "hotels":["hotel7","hotel8"],
+  "attractions":["attraction7","attraction8"] 
   "cityImage": "https://www.altamar.by/wp-content/uploads/2020/08/Grodno-vecher.jpg"
 }, {
   "id": 5,
   "city": "Alanya",
   "hotels":["hotel9","hotel10"],
+  "attractions":["attraction9","attraction10"]
   "cityImage": "https://i4.hurimg.com/i/hurriyet/75/1110x740/600294e37af507402c2ff70c.jpg"
 }, {
   "id": 6,
   "city": "Antalya",
   "hotels":["hotel11","hotel12"],
+  "attractions":["attraction11","attraction12"]
   "cityImage": "https://media.istockphoto.com/photos/antalyaold-townharbor-picture-id470542476?b=1&k=20&m=470542476&s=170667a&w=0&h=3ce0VNGTpCuU5cWefiOw_qy62c1LqOiSIRAuUCEDMhg="
 }, {
   "id": 7,
   "city": "Paris",
   "hotels":["hotel1","hotel2"],
+  "attractions":["attraction1","attraction2"]
   "cityImage": "https://images.unsplash.com/photo-1564594736624-def7a10ab047?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGFyaXMlMjBmcmFuY2V8ZW58MHx8MHx8&w=1000&q=80"
 }, {
   "id": 8,
   "city": "Marcel",
-  "hotels":["hotel3","hotel4"], 
+  "hotels":["hotel3","hotel4"],
+  "attractions":["attraction3","attraction4"]
   "cityImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqGUYyW5JFF04hu7-UQR2_AFZYGI_Ad3lZ1xhuSf2oKd-tzFpLU_ntRARDYHu8WRwWGwQ&usqp=CAU"
 }, {
   "id": 9,
   "city": "Vancouver",
-  "hotels":["hotel5","hotel6"], 
+  "hotels":["hotel5","hotel6"],
+  "attractions":["attraction5","attraction6"]
   "cityImage": "https://nashvancouver.com/wp-content/uploads/2019/03/%D0%B2%D0%B0%D0%BD%D0%BA%D1%83%D0%B2%D0%B5%D1%80-%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D0%B4%D0%BB%D1%8F-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8.jpg"
 }, {
   "id": 10,
   "city": "Toronto",
   "hotels":["hotel7","hotel8"],
+  "attractions":["attraction7","attraction8"]
   "cityImage": "https://vancouverok.com/storage/app/media/toronto.jpg"
 }, {
   "id": 11,
   "city": "Gaaga",
   "hotels":["hotel9","hotel10"],
+  "attractions":["attraction9","attraction10"]
   "cityImage": "https://tripplanet.ru/wp-content/uploads/europe/netherlands/den-haag/gaaga-dostoprimechatelnosti.jpg"
 }, {
   "id": 12,
   "city": "Amsterdam",
   "hotels":["hotel11","hotel12"],
+  "attractions":["attraction11","attraction12"]
   "cityImage": "https://avatars.mds.yandex.net/get-zen_doc/196027/pub_5abb5b4a00b3dd561a73114f_5abb5dd78139baba31d25100/scale_1200"
 }],
   
