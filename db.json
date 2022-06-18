@@ -107,76 +107,76 @@
   "hotels": [{
   "id": 1,
   "hotel": "hotel1",
-  "hotelImage": "https://media.istockphoto.com/photos/fuji-japan-in-spring-picture-id876560704?k=20&m=876560704&s=612x612&w=0&h=ESL0O5Msbqh0jEs382NM_gh-2lRAvmA4QEgWZDvYffQ="
+  "hotelImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Qq974zgU_nnZLFtHZ3N129O8KkPllknskZwcEtWIiNpQwktCSe29GVCmdiKMrFA8Lps&usqp=CAU"
 }, {
   "id": 2,
   "hotel": "hotel2",
-  "hotelImage": "https://imgrosetta.mynet.com.tr/file/12692882/12692882-728xauto.jpg"
+  "hotelImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2OnSVTXsM3QGcZGZ0ooPXGJorD59wmxf2Jg&usqp=CAU"
 }, {
   "id": 3,
   "hotel": "hotel3",
-  "hotelImage": "https://media.worldnomads.com/Explore/middle-east/hagia-sophia-church-istanbul-turkey-gettyimages-skaman306.jpg"
+  "hotelImage": "https://st.depositphotos.com/2288675/2455/i/600/depositphotos_24553989-stock-photo-hotel.jpg"
 }, {
   "id": 4,
   "hotel": "hotel4",
-  "hotelImage": "https://images.pexels.com/photos/2272939/pexels-photo-2272939.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  "hotelImage": "https://st.depositphotos.com/2100389/2186/i/600/depositphotos_21869751-stock-photo-hotel-resort-in-playa-del.jpg"
 }, {
   "id": 5,
   "hotel": "hotel5",
-  "hotelImage": "https://www.canadaintercambio.com/wp-content/uploads/2019/08/estudo-e-trabalho-no-canada.jpg"
+  "hotelImage": "https://static4.depositphotos.com/1005730/373/i/600/depositphotos_3735885-stock-photo-hotel-lobby.jpg"
 }, {
   "id": 6,
   "hotel": "hotel6",
-  "hotelImage": "https://www.globalcompliancenews.com/wp-content/uploads/sites/43/2018/05/Amsterdam.jpg"
+  "hotelImage": "https://st.depositphotos.com/1380064/1840/i/600/depositphotos_18403449-stock-photo-miami-beach-florida-sunny-summer.jpg"
 }, {
   "id": 7,
   "hotel": "hotel7",
-  "hotelImage": "https://images.all-free-download.com/images/graphiclarge/american_flags_on_side_of_building_in_city_596498.jpg"
+  "hotelImage": "https://st.depositphotos.com/1020288/2043/i/600/depositphotos_20437641-stock-photo-view-of-bogliasco.jpg"
 }, {
   "id": 8,
   "hotel": "hotel8",
-  "hotelImage": "https://www.westend61.de/images/0001318974pw/italy-rome-italian-flag-fluttering-againstpalazzobonaparte-and-santa-mariadiloreto-MMAF01235.jpg"
+  "hotelImage": "https://st3.depositphotos.com/1001146/12798/i/600/depositphotos_127981412-stock-photo-high-skyscrapers-of-shinjuku-tokyo.jpg"
 }, {
   "id": 9,
   "hotel": "hotel9",
-  "hotelImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGMwMskQbwTqvsVhqGJ67SvN2_d_GG2n0yJQ&usqp=CAU"
+  "hotelImage": "https://st.depositphotos.com/1141099/1947/i/600/depositphotos_19478545-stock-photo-bellagio.jpg"
 }, {
   "id": 10,
   "hotel": "hotel10",
-  "hotelImage": "https://blog.mydutyfree.net/images/uploaded/21.04.2021%20Georgia/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F1.jpg"
+  "hotelImage": "https://st.depositphotos.com/1835047/1685/i/600/depositphotos_16853977-stock-photo-old-hotel-sign.jpg"
 },{
   "id": 11,
   "hotel": "hotel11",
-  "hotelImage": "https://blog.mydutyfree.net/images/uploaded/21.04.2021%20Georgia/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F1.jpg"
+  "hotelImage": "https://static7.depositphotos.com/1016682/677/i/600/depositphotos_6777368-stock-photo-hotel-entrance.jpg"
 },{
   "id": 12,
   "hotel": "hotel12",
-  "hotelImage": "https://blog.mydutyfree.net/images/uploaded/21.04.2021%20Georgia/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F1.jpg"
+  "hotelImage": "https://st.depositphotos.com/1003131/3547/i/600/depositphotos_35471733-stock-photo-building-facades-in-karlovy-vary.jpg"
 }],
   "attractions": [{
   "id": 1,
   "attraction": "attraction1",
-  "attractionImage": "https://media.istockphoto.com/photos/fuji-japan-in-spring-picture-id876560704?k=20&m=876560704&s=612x612&w=0&h=ESL0O5Msbqh0jEs382NM_gh-2lRAvmA4QEgWZDvYffQ="
+  "attractionImage": "https://st3.depositphotos.com/8174188/19251/i/600/depositphotos_192511550-stock-photo-beautiful-young-woman-with-balloons.jpg"
 }, {
   "id": 2,
   "attraction": "attraction2",
-  "attractionImage": "https://imgrosetta.mynet.com.tr/file/12692882/12692882-728xauto.jpg"
+  "attractionImage": "https://static7.depositphotos.com/1211672/778/i/600/depositphotos_7789279-stock-photo-wiener-carousel-in-prater-in.jpg"
 }, {
   "id": 3,
   "attraction": "attraction3",
-  "attractionImage": "https://media.worldnomads.com/Explore/middle-east/hagia-sophia-church-istanbul-turkey-gettyimages-skaman306.jpg"
+  "attractionImage": "https://st.depositphotos.com/1003827/1271/i/600/depositphotos_12716076-stock-photo-roller-coaster-and-large-ferris.jpg"
 }, {
   "id": 4,
   "attraction": "attraction4",
-  "attractionImage": "https://images.pexels.com/photos/2272939/pexels-photo-2272939.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  "attractionImage": "https://st.depositphotos.com/2682769/4292/i/600/depositphotos_42925481-stock-photo-stylized-photo-of-of-ornamental.jpg"
 }, {
   "id": 5,
   "attraction": "attraction5",
-  "attractionImage": "https://www.canadaintercambio.com/wp-content/uploads/2019/08/estudo-e-trabalho-no-canada.jpg"
+  "attractionImage": "https://st.depositphotos.com/2166845/4945/i/600/depositphotos_49450055-stock-photo-nyhavn-canal-in-copenhagen.jpg"
 }, {
   "id": 6,
   "attraction": "attraction6",
-  "attractionImage": "https://www.globalcompliancenews.com/wp-content/uploads/sites/43/2018/05/Amsterdam.jpg"
+  "attractionImage": "https://st.depositphotos.com/2044631/2015/i/600/depositphotos_20150087-stock-photo-bern-switzerland.jpg"
 }, {
   "id": 7,
   "attraction": "attraction7",
